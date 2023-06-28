@@ -1,3 +1,4 @@
+
 ## Automatic Remapping of ResourceId
 We currently prevent resourceIds from changing, by utilizing the `public.xml` file which makes the resources public, but
 then prevents them to be used in some locations (`android:scheme`). The correct fix would be to record the resourceIds
