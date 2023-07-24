@@ -23,6 +23,7 @@ It is NOT intended for piracy and other non-legal uses. It could be used for loc
 
 #### Security Vulnerabilities
 
+
 If you discover a security vulnerability within Apktool, please send an e-mail to Connor Tumbleson at connor.tumbleson(at)gmail.com. All security vulnerabilities will be promptly addressed.
 
 #### Links
